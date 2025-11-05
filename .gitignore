@@ -1,0 +1,10 @@
+# Ficheiro Principal e Configuração de Utilizador (Não Sincronizar)
+Game.rpojemv
+icon/*
+
+# Ficheiros Temporários / Cache
+save/
+www/
+
+# Ficheiros que o RPG Maker cria durante o desenvolvimento
+*.bak
