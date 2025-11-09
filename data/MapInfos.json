@@ -10,5 +10,5 @@ null,
 {"id":8,"expanded":true,"name":"sala7","order":8,"parentId":7,"scrollX":832,"scrollY":640},
 {"id":9,"expanded":true,"name":"jardim","order":9,"parentId":8,"scrollX":534,"scrollY":302},
 {"id":10,"expanded":false,"name":"bosque","order":10,"parentId":9,"scrollX":534,"scrollY":322},
-{"id":11,"expanded":false,"name":"intro","order":11,"parentId":2,"scrollX":832,"scrollY":640}
+{"id":11,"expanded":false,"name":"intro","order":11,"parentId":2,"scrollX":542,"scrollY":302}
 ]
