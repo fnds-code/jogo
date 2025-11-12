@@ -19,5 +19,5 @@ null,
 {"id":17,"expanded":true,"name":"conexão2","order":17,"parentId":16,"scrollX":832,"scrollY":640},
 {"id":18,"expanded":true,"name":"banheiro","order":18,"parentId":17,"scrollX":832,"scrollY":640},
 {"id":19,"expanded":true,"name":"Sala lazer","order":19,"parentId":18,"scrollX":534,"scrollY":322},
-{"id":20,"expanded":false,"name":"ritutal corredor","order":20,"parentId":18,"scrollX":832,"scrollY":640}
+{"id":20,"expanded":false,"name":"ritutal corredor","order":20,"parentId":18,"scrollX":540.6666666666666,"scrollY":322}
 ]
