@@ -10,14 +10,14 @@ null,
 {"id":8,"expanded":true,"name":"sala7","order":9,"parentId":7,"scrollX":540.6666666666666,"scrollY":322},
 {"id":9,"expanded":true,"name":"inicio andar2","order":11,"parentId":11,"scrollX":832,"scrollY":640},
 {"id":10,"expanded":true,"name":"quarto1","order":12,"parentId":9,"scrollX":540.6666666666666,"scrollY":322},
-{"id":11,"expanded":true,"name":"intro","order":10,"parentId":2,"scrollX":546,"scrollY":302},
+{"id":11,"expanded":true,"name":"intro","order":10,"parentId":2,"scrollX":542,"scrollY":302},
 {"id":12,"expanded":false,"name":"saladestar","order":7,"parentId":6,"scrollX":540.6666666666666,"scrollY":302},
 {"id":13,"expanded":false,"name":"quarto2","order":13,"parentId":10,"scrollX":832,"scrollY":640},
 {"id":14,"expanded":true,"name":"conexão1","order":14,"parentId":9,"scrollX":832,"scrollY":640},
 {"id":15,"expanded":true,"name":"quarto3","order":15,"parentId":14,"scrollX":832,"scrollY":640},
-{"id":16,"expanded":true,"name":"local de ritual","order":16,"parentId":15,"scrollX":832,"scrollY":640},
+{"id":16,"expanded":true,"name":"local de ritual","order":16,"parentId":15,"scrollX":534,"scrollY":322},
 {"id":17,"expanded":true,"name":"conexão2","order":17,"parentId":16,"scrollX":832,"scrollY":640},
 {"id":18,"expanded":true,"name":"banheiro","order":18,"parentId":17,"scrollX":832,"scrollY":640},
-{"id":19,"expanded":true,"name":"Sala lazer","order":19,"parentId":18,"scrollX":832,"scrollY":640},
-{"id":20,"expanded":false,"name":"ritutal corredor","order":20,"parentId":18,"scrollX":540.6666666666666,"scrollY":322}
+{"id":19,"expanded":true,"name":"Sala lazer","order":19,"parentId":18,"scrollX":534,"scrollY":322},
+{"id":20,"expanded":false,"name":"ritutal corredor","order":20,"parentId":18,"scrollX":832,"scrollY":640}
 ]
